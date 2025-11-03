@@ -9,7 +9,7 @@ This project presents an Excel-based dashboard analyzing daily coffee shop sales
 - Data cleaning & transformation (date, time, payment method)
 - Pivot table analysis for KPIs and trend tracking
 - Dashboard design using Excel charts (line, bar, donut)
-- Business insight generation from transactional data
+- Business insight from transactional data
 - Visual storytelling
 
 # Data Sourcing
@@ -21,5 +21,5 @@ The dataset was obtained from Kaggle (https://www.kaggle.com/datasets/reignricha
 # Closing
 
 <p align="justify">
-This project highlights how simple transactional data can be transformed into meaningful business insights through Excel analytics and dashboarding. It serves as a portfolio piece demonstrating my analytical thinking, visualization skills, and attention to design details. Thank you for visiting this project! Feel free to ⭐ the repository or reach out for feedback and collaboration.
+This project highlights how simple transactional data can be transformed into meaningful business insights through Excel analytics and dashboard. It serves as a portfolio piece demonstrating my analytical thinking, visualization skills, and attention to design details. Thank you for visiting this project! Feel free to ⭐ the repository or reach out for feedback and collaboration.
 </p>
