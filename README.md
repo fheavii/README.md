@@ -6,11 +6,11 @@ This project presents an Excel-based dashboard analyzing daily coffee shop sales
 
 # Skill Showcase
 
-- Data cleaning & transformation (date, time, payment method)
+- Data cleaning & transformation (date, time)
 - Pivot table analysis for KPIs and trend tracking
 - Dashboard design using Excel charts (line, bar, donut)
-- Business insight from transactional data
 - Visual storytelling
+- Business insight from transactional data
 
 # Data Sourcing
 
